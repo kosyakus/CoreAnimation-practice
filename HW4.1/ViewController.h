@@ -10,6 +10,11 @@
 
 @interface ViewController : UIViewController
 
+@property CAShapeLayer *triangle;
+@property UIView *square;
+@property CAShapeLayer *circle;
+@property CAShapeLayer *halfcircle;
+
 
 @end
 

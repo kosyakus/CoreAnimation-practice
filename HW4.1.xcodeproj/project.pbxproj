@@ -13,6 +13,19 @@
 		846A9A201ECB1766001509D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A1E1ECB1766001509D5 /* Main.storyboard */; };
 		846A9A221ECB1766001509D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A211ECB1766001509D5 /* Assets.xcassets */; };
 		846A9A251ECB1766001509D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A231ECB1766001509D5 /* LaunchScreen.storyboard */; };
+		846A9A2D1ECC4933001509D5 /* th-4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A2C1ECC4933001509D5 /* th-4.jpeg */; };
+		846A9A371ECC5842001509D5 /* succ2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A2E1ECC5842001509D5 /* succ2.jpg */; };
+		846A9A381ECC5842001509D5 /* succ3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A2F1ECC5842001509D5 /* succ3.jpg */; };
+		846A9A391ECC5842001509D5 /* succ5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A301ECC5842001509D5 /* succ5.jpg */; };
+		846A9A3A1ECC5842001509D5 /* succ6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A311ECC5842001509D5 /* succ6.jpg */; };
+		846A9A3B1ECC5842001509D5 /* succ8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A321ECC5842001509D5 /* succ8.jpg */; };
+		846A9A3C1ECC5842001509D5 /* succ9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A331ECC5842001509D5 /* succ9.jpg */; };
+		846A9A3D1ECC5842001509D5 /* succ12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A341ECC5842001509D5 /* succ12.jpg */; };
+		846A9A3E1ECC5842001509D5 /* succ14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A351ECC5842001509D5 /* succ14.jpg */; };
+		846A9A3F1ECC5842001509D5 /* succ15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 846A9A361ECC5842001509D5 /* succ15.jpg */; };
+		846A9A421ECC5909001509D5 /* CollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 846A9A411ECC5909001509D5 /* CollectionViewController.m */; };
+		846A9A451ECC5928001509D5 /* CollectionCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 846A9A441ECC5928001509D5 /* CollectionCell.m */; };
+		846A9A481ECC719C001509D5 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 846A9A471ECC719C001509D5 /* FirstViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +39,22 @@
 		846A9A211ECB1766001509D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		846A9A241ECB1766001509D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		846A9A261ECB1766001509D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		846A9A2C1ECC4933001509D5 /* th-4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "th-4.jpeg"; sourceTree = "<group>"; };
+		846A9A2E1ECC5842001509D5 /* succ2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = succ2.jpg; sourceTree = "<group>"; };
+		846A9A2F1ECC5842001509D5 /* succ3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = succ3.jpg; sourceTree = "<group>"; };
+		846A9A301ECC5842001509D5 /* succ5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = succ5.jpg; sourceTree = "<group>"; };
+		846A9A311ECC5842001509D5 /* succ6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = succ6.jpg; sourceTree = "<group>"; };
+		846A9A321ECC5842001509D5 /* succ8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = succ8.jpg; sourceTree = "<group>"; };
+		846A9A331ECC5842001509D5 /* succ9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = succ9.jpg; sourceTree = "<group>"; };
+		846A9A341ECC5842001509D5 /* succ12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = succ12.jpg; sourceTree = "<group>"; };
+		846A9A351ECC5842001509D5 /* succ14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = succ14.jpg; sourceTree = "<group>"; };
+		846A9A361ECC5842001509D5 /* succ15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = succ15.jpg; sourceTree = "<group>"; };
+		846A9A401ECC5909001509D5 /* CollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewController.h; sourceTree = "<group>"; };
+		846A9A411ECC5909001509D5 /* CollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionViewController.m; sourceTree = "<group>"; };
+		846A9A431ECC5928001509D5 /* CollectionCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionCell.h; sourceTree = "<group>"; };
+		846A9A441ECC5928001509D5 /* CollectionCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionCell.m; sourceTree = "<group>"; };
+		846A9A461ECC719C001509D5 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		846A9A471ECC719C001509D5 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +92,12 @@
 				846A9A1B1ECB1766001509D5 /* ViewController.h */,
 				846A9A1C1ECB1766001509D5 /* ViewController.m */,
 				846A9A1E1ECB1766001509D5 /* Main.storyboard */,
+				846A9A461ECC719C001509D5 /* FirstViewController.h */,
+				846A9A471ECC719C001509D5 /* FirstViewController.m */,
+				846A9A431ECC5928001509D5 /* CollectionCell.h */,
+				846A9A441ECC5928001509D5 /* CollectionCell.m */,
+				846A9A401ECC5909001509D5 /* CollectionViewController.h */,
+				846A9A411ECC5909001509D5 /* CollectionViewController.m */,
 				846A9A211ECB1766001509D5 /* Assets.xcassets */,
 				846A9A231ECB1766001509D5 /* LaunchScreen.storyboard */,
 				846A9A261ECB1766001509D5 /* Info.plist */,
@@ -74,6 +109,16 @@
 		846A9A151ECB1766001509D5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				846A9A2C1ECC4933001509D5 /* th-4.jpeg */,
+				846A9A2E1ECC5842001509D5 /* succ2.jpg */,
+				846A9A2F1ECC5842001509D5 /* succ3.jpg */,
+				846A9A301ECC5842001509D5 /* succ5.jpg */,
+				846A9A311ECC5842001509D5 /* succ6.jpg */,
+				846A9A321ECC5842001509D5 /* succ8.jpg */,
+				846A9A331ECC5842001509D5 /* succ9.jpg */,
+				846A9A341ECC5842001509D5 /* succ12.jpg */,
+				846A9A351ECC5842001509D5 /* succ14.jpg */,
+				846A9A361ECC5842001509D5 /* succ15.jpg */,
 				846A9A161ECB1766001509D5 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -138,8 +183,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				846A9A251ECB1766001509D5 /* LaunchScreen.storyboard in Resources */,
+				846A9A3B1ECC5842001509D5 /* succ8.jpg in Resources */,
+				846A9A381ECC5842001509D5 /* succ3.jpg in Resources */,
 				846A9A221ECB1766001509D5 /* Assets.xcassets in Resources */,
+				846A9A3E1ECC5842001509D5 /* succ14.jpg in Resources */,
+				846A9A2D1ECC4933001509D5 /* th-4.jpeg in Resources */,
+				846A9A3C1ECC5842001509D5 /* succ9.jpg in Resources */,
+				846A9A3F1ECC5842001509D5 /* succ15.jpg in Resources */,
+				846A9A3A1ECC5842001509D5 /* succ6.jpg in Resources */,
+				846A9A3D1ECC5842001509D5 /* succ12.jpg in Resources */,
 				846A9A201ECB1766001509D5 /* Main.storyboard in Resources */,
+				846A9A391ECC5842001509D5 /* succ5.jpg in Resources */,
+				846A9A371ECC5842001509D5 /* succ2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,6 +205,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				846A9A421ECC5909001509D5 /* CollectionViewController.m in Sources */,
+				846A9A481ECC719C001509D5 /* FirstViewController.m in Sources */,
+				846A9A451ECC5928001509D5 /* CollectionCell.m in Sources */,
 				846A9A1D1ECB1766001509D5 /* ViewController.m in Sources */,
 				846A9A1A1ECB1766001509D5 /* AppDelegate.m in Sources */,
 				846A9A171ECB1766001509D5 /* main.m in Sources */,
